@@ -1,2 +1,2 @@
 # rideLondon
-Example of using Gulp as a task runner.
+Example of using Grunt as a task runner.
